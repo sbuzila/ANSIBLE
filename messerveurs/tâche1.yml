@@ -1,0 +1,8 @@
+# Samuel Buzila (ca va plus vite quand tu es seul :))
+# 2021-10-18
+
+- name: Tâche 1
+  hosts:all
+  tasks:
+          - name: Premier essai !
+          command: "touch fichier1.txt"
